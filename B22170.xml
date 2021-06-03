@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament that no wharsinger, woodmonger, or other seller of New-Castle coales within the cities of London and Westminster or the suburbes thereof, shall after the making hereof sell any New-Castle coales, above the rate of 23 s. the chaldron, and after the first of Aprill next, above 20 s. at the most : and if any shall wilfully transgresse this ordinance, they shall be committed to prison, and there continue untill they shall conforme themselves thereunto : and the lord maior and sheriffs of the city of London and Middlesex, are hereby required to see this put in execution.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22170</idno><idno type="EEBO-CITATION">12228889</idno>
+  <idno type="VID">197063</idno>
+  <idno type="EEBO-PROQUEST">2240965293</idno>
+  
+            <idno type="STC">Wing E2086</idno>
+            <idno type="OCLC">12228889</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197063)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E90, no 17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament that no wharsinger, woodmonger, or other seller of New-Castle coales within the cities of London and Westminster or the suburbes thereof, shall after the making hereof sell any New-Castle coales, above the rate of 23 s. the chaldron, and after the first of Aprill next, above 20 s. at the most : and if any shall wilfully transgresse this ordinance, they shall be committed to prison, and there continue untill they shall conforme themselves thereunto : and the lord maior and sheriffs of the city of London and Middlesex, are hereby required to see this put in execution.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Feb. 23, 1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coal trade --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197063:1"/>
+            <p>AN ORDINANCE Of the LORDS and COMMONS Assembled in PARLIAMENT, That no Wharsinger, Wood<g ref="char:EOLhyphen"/>monger, or other Seller of New-Castle Coales, within the Cities of London and West<g ref="char:EOLhyphen"/>minster, or the Suburbes thereof, shall after the making hereof sell any New-Castle Coales, above the rate of 23 s. the Chaldron, and after the first of Aprill next, above 20 s, at the most. And if any shall wilfully transgresse this Ordi<g ref="char:EOLhyphen"/>nance, they shall be committed to Prison, and there continue, untill they shall conforme themselves thereunto. And the Lord Maior and Sheriffs of the City of London, and Middlesex, are hereby required to see this put in Execution.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <opener>
+                              <dateline>
+                                 <date>Die Martis, 21 Feb. 1642.</date>
+                              </dateline>
+                           </opener>
+                           <p>
+                              <hi>ORdered by the Lords and Commons Assembled in Parlia<g ref="char:EOLhyphen"/>ment, that this Ordinance be forthwith Printed and Pub<g ref="char:EOLhyphen"/>lished.</hi>
+                           </p>
+                           <closer>
+                              <signed>John Browne Cler. Parliament.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>Feb. 23. Printed for <hi>Iohn Wright</hi> in the Old-Bailey. 1642.</p>
+            <pb facs="tcp:197063:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:197063:2"/>
+            <head>AN ORDINANCE Of the LORDS and COMMONS Assembled in PARLIAMENT. <hi>Die Martis,</hi> 21. <hi>Februarii,</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or as much as information hath bin given, that the Woodmongers, Wharfingers, &amp; other Sellers of <hi>Newcastle</hi> Coale in the Cities of <hi>London</hi> and <hi>Westminster,</hi> and the Suburbs of the same, taking ad<g ref="char:EOLhyphen"/>vantage
+<pb facs="tcp:197063:3"/> of the late Ordinance made by both houses, prohibiting Ships to trade into <hi>Newcastle</hi> for coales, have raised the prizes thereof unto an un<g ref="char:EOLhyphen"/>reasonable &amp; excessive Rate, in respect of the rate they have bought the same at, to the great oppression of the poorer and meaner sorts of peo<g ref="char:EOLhyphen"/>ple Inhabiting the said Citie and Suburbs. Whereupon the House of Commons, by an Order dated the twenty eight of <hi>January,</hi> referred the consideration thereof unto the Lord Maior of the City of <hi>London,</hi> to Informe himselfe what might bee a reasonable price, having equall re<g ref="char:EOLhyphen"/>spect both to the seller and the buyer, and to present his opinion to the House to be considered of by both Houses, and in the mean time Orde<g ref="char:EOLhyphen"/>red, that the price should not exceed twenty two shillings the Chaldron. Whereupon the Lord Maior, cal<g ref="char:EOLhyphen"/>ling
+<pb facs="tcp:197063:3"/> to his Assistance the Aldermen of the said Citty, did certifie that twenty two shillings the Chaldron at the Wharfe was a faire and fit<g ref="char:EOLhyphen"/>ting rate. But for the incourage<g ref="char:EOLhyphen"/>ment of those that Trade in Coale, to bring in their Ships of lading in<g ref="char:EOLhyphen"/>to the River of Thames and supply the Market there: Certified that twelve pence more upon the Chal<g ref="char:EOLhyphen"/>dron during this Winter might be allowed.</p>
+            <p>The Lords and Commons ta<g ref="char:EOLhyphen"/>king the same into their Considera<g ref="char:EOLhyphen"/>tion, doe hereby Ordaine and Or<g ref="char:EOLhyphen"/>der, That no Wharfinger, Wood<g ref="char:EOLhyphen"/>monger, or other seller of <hi>Newcastle</hi> Coale, within the Cities of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Westminster,</hi> or the Sub<g ref="char:EOLhyphen"/>urbs or Liberties thereof, or within the Borough of <hi>Southwarke,</hi> shall at any time after the making of this Order and before the first of <hi>Aprill</hi>
+               <pb facs="tcp:197063:4"/> next ensuing, sell any <hi>Newcastle</hi> coale above the rate of twenty three shil<g ref="char:EOLhyphen"/>lings the Chaldron at the Wharfe; and from and after the said first of <hi>Aprill,</hi> above the rate of twentie shillings the Chaldron at the most. And the Lord Maior and Sheriffs of the City of <hi>London</hi> and <hi>Middle<g ref="char:EOLhyphen"/>sex,</hi> the Iustices of Peace of the Countie of <hi>Surrey,</hi> respectively in their severall Iurisdictions, or any two of them, are hereby Authori<g ref="char:EOLhyphen"/>zed and required, to take care for the due Execution of this Ordi<g ref="char:EOLhyphen"/>nance, and in case any shall wilful<g ref="char:EOLhyphen"/>ly Transgresse the same, to com<g ref="char:EOLhyphen"/>mit him or them so Transgressing to Prison, untill he shall Conforme himselfe thereunto, provided that a<g ref="char:EOLhyphen"/>ny person that shall find himselfe grieved by reason of such Com<g ref="char:EOLhyphen"/>mitment, may appeale to the Committee of Lords and Com<g ref="char:EOLhyphen"/>mons
+<pb facs="tcp:197063:4"/> for advance of Monies, who hereby are Authorized to heare his complaint, and to discharge him of his Imprisonment, if they shall find cause.</p>
+            <p>And it is hereby further Ordei<g ref="char:EOLhyphen"/>ned and Ordered, That no <hi>New-Castle</hi> Coale, Pit-Coale or Sea-coal shall be transported out of this Kingdome, into any Ports beyond the Seas, without the speciall Or<g ref="char:EOLhyphen"/>der of both Houses of Parliament, and the Earle of <hi>Warwicke,</hi> Admi<g ref="char:EOLhyphen"/>rall of the Fleét, and all the Cap<g ref="char:EOLhyphen"/>taines and Officers thereof, and the Officers of the Custome-House, and of all the Ports of the Kingdome, are to have speciall care to seé the same duely observed.</p>
+            <p>And it is Ordered that this Or<g ref="char:EOLhyphen"/>dinance bee forthwith Printed, and the Lord Maior and Sheriffs of the City of <hi>London</hi> and <hi>Middlesex,</hi>
+               <pb facs="tcp:197063:5"/> are to take care that the same bee published in the Cities of <hi>London, Westminster, Southwarke,</hi> and the Suburbes and Liberties thereof, and the Collectors of the Customes are forthwith to send it to the seve<g ref="char:EOLhyphen"/>rall Ports of this Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
